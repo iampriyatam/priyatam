@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: PHP
   - type: DividerSection
     styles:
       self:

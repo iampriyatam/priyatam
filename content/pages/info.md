@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: JavaScript
       - type: Label
         label: Microsoft Office
       - type: Label

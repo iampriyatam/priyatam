@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: C++
+        label: React.js
       - type: Label
         label: PHP
   - type: DividerSection

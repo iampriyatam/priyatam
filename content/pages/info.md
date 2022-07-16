@@ -258,26 +258,25 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   freelance @ various companies
 
           **2018-2021**
 
-          * fullstack at this startup
+          *   fullstack at this startup Digital India Path
 
-          **2015**
+          **2017-2018**
 
-          * senior front-end at this place
+          *   senior front-end at WBN Technologies
 
-          **2013**
+          **2016**
 
-          * intern developer at a big company
+          *   intern developer at Systweak Softwares
 
-          **2011**
 
-          * flipping burgers
+
         styles:
           self:
             textAlign: left

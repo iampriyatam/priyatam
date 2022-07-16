@@ -218,7 +218,7 @@ sections:
       - type: Label
         label: Stackbit
       - type: Label
-        label: Pancakes
+        label: CSS
       - type: Label
         label: C++
       - type: Label

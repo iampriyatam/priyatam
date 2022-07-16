@@ -287,7 +287,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |+
+        text: |
           **2011-2015**
 
           *   btech computer science at RTU
@@ -299,7 +299,6 @@ sections:
           **2011**
 
           *   my highschool
-
         styles:
           self:
             textAlign: left

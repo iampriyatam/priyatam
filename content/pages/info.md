@@ -287,18 +287,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2011-2015**
 
-          * ba computer sciense at a semi fancy school
+          *   btech computer science at RTU
 
           **2014**
 
-          * react certificate somewhere
+          *   Frontend design certificate freecodecamp
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left

@@ -60,7 +60,7 @@ sections:
     projects:
       - content/pages/projects/ekasila-constructions.md
       - content/pages/projects/city-car-care.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/suruchi-creations.md
     styles:
       self:
         height: auto

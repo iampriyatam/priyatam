@@ -9,7 +9,7 @@ description: >-
   submission to email.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/city-car-care.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

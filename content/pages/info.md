@@ -313,7 +313,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         elementId: ''
-        subtitle: ''
+        subtitle: 'Education:'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

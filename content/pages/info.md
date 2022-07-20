@@ -207,9 +207,9 @@ sections:
       - type: Label
         label: Bootstrap
       - type: Label
-        label: Stackbit
-      - type: Label
         label: CSS
+      - type: Label
+        label: Stackbit
       - type: Label
         label: React.js
       - type: Label

@@ -291,18 +291,6 @@ sections:
 
           *   Responsive Web Design Certification - FreeCodeCamp
 
-
-          **2011-2015**
-
-
-          *   B.Tech in computer science at RTU
-
-
-          **2011**
-
-
-          *   My highschool
-
         styles:
           self:
             textAlign: left

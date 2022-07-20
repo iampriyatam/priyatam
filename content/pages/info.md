@@ -209,9 +209,9 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Stackbit
-      - type: Label
         label: React.js
+      - type: Label
+        label: Stackbit
       - type: Label
         label: PHP
   - type: DividerSection

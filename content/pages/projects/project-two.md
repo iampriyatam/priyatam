@@ -7,7 +7,7 @@ client: Awesome client
 description: 'static website using html, css, javascript and php.'
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/ekasila-constructions.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

@@ -250,23 +250,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          **2018-Current**
 
-          *   freelance @ various companies
-
-          **2018-2021**
-
-          *   fullstack at this startup Digital India Path
+          *   Front End Developer at this startup Digital India Path
 
           **2017-2018**
 
-          *   senior front-end at WBN Technologies
+          *   Web Designer at WBN Technologies (P) Ltd.
 
           **2016**
 
-          *   intern developer at Systweak Softwares
-
-
+          *   System Engineer at The Phone Support (Systweak Softwares)
 
         styles:
           self:

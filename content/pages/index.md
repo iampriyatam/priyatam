@@ -59,7 +59,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/ekasila-constructions.md
-      - content/pages/projects/project-three.md
+      - content/pages/projects/city.md
       - content/pages/projects/project-one.md
     styles:
       self:

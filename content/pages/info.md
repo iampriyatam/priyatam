@@ -205,7 +205,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Next.js
+        label: Bootstrap
       - type: Label
         label: Stackbit
       - type: Label

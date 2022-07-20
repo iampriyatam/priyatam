@@ -4,9 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-03-22'
 client: Awesome client
-description: >-
-  build on html, css, javascript and core php. used phpmailer for form
-  submission to email.
+description: 'build on html, css, javascript and core php.'
 featuredImage:
   type: ImageBlock
   url: /images/city-car-care.png

@@ -314,10 +314,15 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: 'Education:'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          **2011-2015**
+
+          *   B.Tech in computer science at RTU
+
+          **2011**
+
+          *   My highschool
+
         actions: []
         styles:
           self:

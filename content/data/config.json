@@ -81,7 +81,7 @@
             "address": "New Delhi, India",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",

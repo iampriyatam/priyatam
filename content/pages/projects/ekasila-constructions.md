@@ -1,5 +1,5 @@
 ---
-title: ekasila constructions
+title: ekasila
 colors: colors-a
 layout: ProjectLayout
 date: '2022-07-15'

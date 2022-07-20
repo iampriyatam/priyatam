@@ -201,9 +201,9 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: JavaScript
-      - type: Label
         label: HTML
+      - type: Label
+        label: JavaScript
       - type: Label
         label: Bootstrap
       - type: Label

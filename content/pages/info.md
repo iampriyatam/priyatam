@@ -360,7 +360,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: ''
+      destination: priyatam31260@gmail.com
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName

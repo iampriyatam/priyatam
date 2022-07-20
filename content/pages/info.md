@@ -272,18 +272,37 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |
+        text: >+
+          **2022**
+
+
+          *   JavaScript Algorithms and Data Structures Certification -
+          FreeCodeCamp
+
+
+          **2020**
+
+
+          *   Fundamental of Digital Marketing Certification - Google
+
+
+          **2016**
+
+
+          *   Responsive Web Design Certification - FreeCodeCamp
+
+
           **2011-2015**
 
-          *   btech computer science at RTU
 
-          **2014**
+          *   B.Tech in computer science at RTU
 
-          *   Frontend design certificate freecodecamp
 
           **2011**
 
-          *   my highschool
+
+          *   My highschool
+
         styles:
           self:
             textAlign: left

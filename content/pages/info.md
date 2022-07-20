@@ -149,7 +149,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/iampriyatam'
         styles:
           self:
             textAlign: left

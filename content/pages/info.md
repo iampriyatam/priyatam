@@ -205,9 +205,9 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Bootstrap
-      - type: Label
         label: CSS
+      - type: Label
+        label: Bootstrap
       - type: Label
         label: PHP
       - type: Label

@@ -37,6 +37,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/iampriyatam",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {

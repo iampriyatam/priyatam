@@ -132,16 +132,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/iampriyatam'
+            label: CodePen
+            url: 'https://codepen.io/iampriyatam'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/iampriyatam'
+            label: Twitter
+            url: 'https://twitter.com/iampriyatam'
         styles:
           self:
             textAlign: left

@@ -203,7 +203,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Microsoft Office
+        label: HTML
       - type: Label
         label: Next.js
       - type: Label

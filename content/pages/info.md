@@ -203,9 +203,9 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: JavaScript
-      - type: Label
         label: CSS
+      - type: Label
+        label: JavaScript
       - type: Label
         label: Bootstrap
       - type: Label

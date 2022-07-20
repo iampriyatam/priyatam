@@ -124,16 +124,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/iampriyatam'
+            label: CodePen
+            url: 'https://codepen.io/iampriyatam'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/iampriyatam'
+            label: GitHub
+            url: 'https://github.com/iampriyatam'
         styles:
           self:
             textAlign: left

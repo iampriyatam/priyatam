@@ -59,7 +59,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/ekasila-constructions.md
-      - content/pages/projects/city-car-care.md
+      - content/pages/projects/suruchi-creations.md
       - content/pages/projects/suruchi-creations.md
     styles:
       self:

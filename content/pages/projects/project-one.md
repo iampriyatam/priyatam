@@ -7,7 +7,7 @@ client: Awesome client
 description: BUILD on wordpress and woocommerce with bulk purchase functionality
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/suruchi-creations.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

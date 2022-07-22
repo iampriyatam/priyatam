@@ -121,3 +121,16 @@ One of the most crucial elements that can help you grow your business online is 
 ## 2.) Beautiful User Experience and Design
 
 People today do not compromise with the user interface that your website offers; this is not the 1990s. Everyone wants to be surrounded by lovely things, whether they are found online or off. They need attractive things. So make an effort to maintain an appealing and stunning website. Make sure the user experience is straightforward and engaging as well. You can pick a website theme that complements your brand and advances your corporate objective.
+
+## 3.) Safe and Quick Checkout
+
+No one has the time to waste on your sluggish checkout processing in today's busy world if it involves spending money. Once they make a purchase decision, many simply throw it away. Don't ever irritate them by making them wait in line or for anything else. Additionally, customers want to be sure that their online payments are secure. Therefore, always use an approved payment method and SSL encryption to encrypt your website.
+
+## 4.) Always promote high-quality goods
+
+The majority of individuals do not compromise on quality because it is the most crucial factor. However, they would rather spend a little more money on quality goods than toss away money on inferior goods. Therefore, always offer superior goods and services. The main sales effort takes place there, and this is the only area where you can outperform most of your rivals.
+
+## 5.) Support Following Sales
+
+No matter how many high-quality products you have, you'll always need a compassionate support staff to look after your clients. By developing a strong relationship with them, you can gain more clients here. Because a good relationship is necessary for any sale. Your marketing goal will be achieved if you can keep your customers satisfied after the transaction.
+

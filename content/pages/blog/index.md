@@ -28,4 +28,5 @@ postFeed:
 styles:
   title:
     textAlign: left
+metaTitle: Blog | Priyatam
 ---

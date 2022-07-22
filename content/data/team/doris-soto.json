@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "firstName": "Priyatam",
-    "lastName": "Soto",
     "image": {
         "type": "ImageBlock",
         "url": "/images/about.jpg",

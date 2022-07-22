@@ -97,4 +97,5 @@ bottomSections:
       text:
         textAlign: left
 metaTitle: Projects | Priyatam
+metaDescription: Web development projects.
 ---

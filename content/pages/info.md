@@ -422,5 +422,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: 'About '
+metaTitle: About | Priyatam
 ---

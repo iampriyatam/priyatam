@@ -34,4 +34,5 @@ socialImage: /images/blog-priyatam.png
 metaTags:
   - type: MetaTag
     content: Blog | Priyatam
+    property: 'og:title'
 ---

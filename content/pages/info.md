@@ -149,7 +149,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: Medium
             altText: ''
             url: /
             showIcon: false

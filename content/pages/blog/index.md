@@ -33,6 +33,5 @@ metaDescription: Web Development and Marketing Blogs
 socialImage: /images/blog-priyatam.png
 metaTags:
   - type: MetaTag
-    property: 'og:type'
     content: Blog | Priyatam
 ---

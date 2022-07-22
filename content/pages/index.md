@@ -1,5 +1,5 @@
 ---
-title: Front End Developer in Delhi
+title: Front End Developer in Delhi | Priyatam
 layout: PageLayout
 colors: colors-a
 backgroundImage:

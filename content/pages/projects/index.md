@@ -96,4 +96,5 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Projects | Priyatam
 ---

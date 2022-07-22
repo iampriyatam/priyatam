@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Front End Developer in Delhi
 layout: PageLayout
 colors: colors-a
 backgroundImage:

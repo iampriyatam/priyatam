@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: >+
       ## Hey, I’m a Front End developer. I’ve been born and raised in Raxaul,
       and I'm based in New Delhi. I’m currently working with a great startup

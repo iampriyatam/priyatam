@@ -95,7 +95,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/5-strategies-to-improve-your-online-marketing..md
-      - content/pages/blog/post-seven.md
       - content/pages/blog/post-six.md
       - content/pages/blog/post-one.md
     showDate: true

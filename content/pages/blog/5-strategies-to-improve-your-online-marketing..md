@@ -108,6 +108,7 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+date: '0020-07-23'
 ---
 ##### Nowadays, consumers have a wide range of options. People like to buy products online since it is so straightforward and easy, despite the fact that there are many possibilities available in the market. Today, one can purchase anything from a mobile phone to a rocket with only a few clicks, which was not conceivable before the Internet. Due to the availability of a wide range of options, customers are now getting value for their money thanks to the internet market.
 

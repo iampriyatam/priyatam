@@ -3,7 +3,7 @@ title: "5 strategies to improve your online marketing. \U0001F680"
 colors: colors-a
 layout: PostLayout
 author: content/data/team/doris-soto.json
-excerpt: 'Nowadays, consumers have a wide range of options.'
+excerpt: 'Nowadays, consumers have a wide range of options...'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg

@@ -6,7 +6,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'Nowadays, consumers have a wide range of options...'
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/5-strategies-to-improve-your-online-marketing.jpeg
   altText: Post thumbnail image
 media:
   url: /images/5-strategies-to-improve-your-online-marketing.jpeg

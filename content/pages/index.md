@@ -197,4 +197,5 @@ metaDescription: >-
   other impressive titles and buzz words.
 addTitleSuffix: false
 socialImage: /images/front-end-developer.png
+metaTitle: 'Front End Developer in Delhi '
 ---

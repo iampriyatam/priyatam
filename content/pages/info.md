@@ -13,11 +13,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey I’m a WEB developer. I’ve been born and raised in Raxaul, and I'm
-      based in New Delhi. I’m currently a free folk who develops some creative
-      web applications, i managed a team of designers and developers in a
-      startup called WBN Technologies. When I’m not coding, writing or creating,
-      I travel.
+      ## Hey, I’m a Front End developer. I’ve been born and raised in Raxaul,
+      and I'm based in New Delhi. I’m currently working with a great startup
+      community that develops some creative web applications, I also managed a
+      team of web designers, developers, and Digital Marketing Analysts in a
+      startup called WBN Technologies. When I’m not coding, writing, or
+      creating, I travel.
 
     media:
       type: ImageBlock

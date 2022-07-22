@@ -10,7 +10,7 @@ featuredImage:
   url: /images/featured-Image1.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: /images/5-strategies-to-improve-your-online-marketing.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

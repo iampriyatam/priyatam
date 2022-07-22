@@ -2,7 +2,7 @@
 title: "5 strategies to improve your online marketing. \U0001F680"
 colors: colors-a
 layout: PostLayout
-date: '2021-06-28'
+date: '2021-06-02'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:

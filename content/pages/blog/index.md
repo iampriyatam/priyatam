@@ -29,4 +29,5 @@ styles:
   title:
     textAlign: left
 metaTitle: Blog | Priyatam
+metaDescription: Web Development and Marketing Blogs
 ---

@@ -196,4 +196,5 @@ metaTitle: Front End Developer in Delhi
 metaDescription: >-
   I’m a FRONT END developer, digital MARKETING EXPERT, consultant and a bunch of
   other impressive titles and buzz words.
+addTitleSuffix: true
 ---

@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/photo.jpg
+      url: /images/photo-vector-transparent.png
       altText: Hero image
     styles:
       self:

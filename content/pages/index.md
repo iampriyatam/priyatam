@@ -192,4 +192,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Front End Developer in Delhi | Priyatam
 ---

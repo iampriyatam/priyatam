@@ -151,7 +151,7 @@ sections:
           - type: Link
             label: Medium
             altText: Medium
-            url: /
+            url: 'https://medium.com/@iampriyatam'
             showIcon: false
             icon: arrowRight
             iconPosition: right

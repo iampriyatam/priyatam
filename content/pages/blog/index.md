@@ -30,4 +30,5 @@ styles:
     textAlign: left
 metaTitle: Blog | Priyatam
 metaDescription: Web Development and Marketing Blogs
+socialImage: /images/blog-priyatam.png
 ---

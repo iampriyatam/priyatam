@@ -23,6 +23,7 @@ sections:
       type: ImageBlock
       url: /images/photo-vector-transparent.png
       altText: Hero image
+      elementId: '123'
     styles:
       self:
         height: auto

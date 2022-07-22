@@ -150,7 +150,7 @@ sections:
         actions:
           - type: Link
             label: Medium
-            altText: ''
+            altText: Medium
             url: /
             showIcon: false
             icon: arrowRight

@@ -423,5 +423,7 @@ sections:
       text:
         textAlign: left
 metaTitle: About | Priyatam
-metaDescription: I am a front end developer and digital marketing expert in Delhi NCR.
+metaDescription: >-
+  I am a front-end developer and digital marketing expert in Delhi NCR. Start
+  your project now.
 ---

@@ -112,7 +112,19 @@ date: '2022-07-23'
 ---
 ##### Nowadays, consumers have a wide range of options. People like to buy products online since it is so straightforward and easy, despite the fact that there are many possibilities available in the market. Today, one can purchase anything from a mobile phone to a rocket with only a few clicks, which was not conceivable before the Internet. Due to the availability of a wide range of options, customers are now getting value for their money thanks to the internet market.
 
-What makes people select you, then? And if you are a brand-new egg in the market, it is really difficult. Here are some recommendations from my point of view; I think they will be helpful to you when you start your startup, MSME, or online store.
+Table of Contents
+
+*   Promotions and Branding
+
+*   Beautiful User Experience and Design
+
+*   Safe and Quick Checkout
+
+*   Always Promote High-Quality Goods
+
+*   Support Following Sales
+
+What makes people select you, then? And if you are a brand-new egg in the market, it is really difficult. Here are some recommendations from my point of view; I think they will be helpful to you when you start your own startup, MSME, or an online store.
 
 ## 1.) Promotions and Branding
 
@@ -133,4 +145,3 @@ The majority of individuals do not compromise on quality because it is the most 
 ## 5.) Support Following Sales
 
 No matter how many high-quality products you have, you'll always need a compassionate support staff to look after your clients. By developing a strong relationship with them, you can gain more clients here. Because a good relationship is necessary for any sale. Your marketing goal will be achieved if you can keep your customers satisfied after the transaction.
-

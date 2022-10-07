@@ -1,24 +1,20 @@
-# A New Stackbit Project
+# Personal Portfolio Project
 
-Welcome to your new project created with Stackbit!
+# How to Install 
 
-Here are a few useful tips & links:
+You can download a copy of the project by pressing the "Download Zip" button on the Github page. After that you should decompress the files into the root directory of Xampp. Depending on your operating system, the directory is located as follows:
 
-## Set up
+XAMPP on Windows: C:/xampp/htdocs/
 
-1. If you haven't yet transferred this project to your GitHub account, click on the **Gear** icon in the visual editor to open **Project Settings** and start the transfer. [Learn More](https://docs.stackbit.com/how-to-guides/transfer-repo/).
-1. Once the repository is in your account, the Project Settings window will show you the commands to run for setting up your local environment. [Learn More](https://docs.stackbit.com/how-to-guides/local-development/).
+XAMPP on Linux: /opt/lampp/htdocs/
 
-## Learn the basics
+XAMPP on Mac OS X: /Applications/XAMPP/htdocs/
 
-1. It's a good idea to go through our [Getting Started tutorial](https://docs.stackbit.com/getting-started/). It will give you a small taste of component development as well, and links for further reading.
-1. To go deeper into how things work, head to the [Conceptual Guides](https://docs.stackbit.com/conceptual-guides/).
-1. For more concise, practical information see the [How-to Guides](https://docs.stackbit.com/how-to-guides/).
+Install npm and run the following command to getting start with the project:
 
-## Get answers
+Run npm run dev or 
+yarn dev or pnpm dev to start the development server on http://localhost:3000
+Visit http://localhost:3000 to view your application
 
-[Join us on Discord](https://discord.gg/HUNhjVkznH) for community support.
 
-## Do your thing
 
-Time for you to build your website the way you want it, including modifying this README 😉. 

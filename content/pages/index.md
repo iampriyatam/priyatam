@@ -18,7 +18,9 @@ sections:
     subtitle: >-
       You can consider me someone who builds, designs, and tests the user
       interface elements of websites, software programs, and web-based
-      applications.
+      applications. I can handle API integration and performance audit of
+      systems. If you are looking to discuss your technology architecture of the
+      organization then also i could help you.
     styles:
       self:
         height: auto

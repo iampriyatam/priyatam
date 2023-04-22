@@ -13,12 +13,11 @@ sections:
     colors: colors-f
     backgroundSize: inset
     text: >+
-      ## Hey, I’m a Front End developer. I’ve been born and raised in Raxaul,
-      and I'm based in New Delhi. I’m currently working with a great startup
-      community that develops some creative web applications, I also managed a
-      team of web designers, developers, and Digital Marketing Analysts in a
-      startup called WBN Technologies. When I’m not coding, writing, or
-      creating, I travel.
+      ## Hey, I’m a Front End Engineer. I’ve been born and raised in Raxaul, and
+      currently, I'm based in New Delhi. I’m currently working as a Digital
+      Business Manager with the Digital Strategy Team of Reliance Group with the
+      engagement of end-to-end delivery of web applications and integration.
+      When I’m not coding, writing, or creating, I travel.
 
     media:
       type: ImageBlock

@@ -13,12 +13,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a FRONT END developer, digital MARKETING EXPERT, consultant and a
-      bunch of other impressive titles and buzz words.
+      I’m a FRONT-END engineer, digital business manager, consultant and a
+      travel enthusiast.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      You can consider me someone who builds, designs, and tests the user
+      interface elements of websites, software programs, and web-based
+      applications. I can handle API integration and performance audit of
+      applications. If you are looking to discuss your technology architecture
+      of the organization then also, I could help you. Scroll down to read more.
     styles:
       self:
         height: auto

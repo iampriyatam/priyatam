@@ -20,7 +20,7 @@ sections:
       interface elements of websites, software programs, and web-based
       applications. I can handle API integration and performance audit of
       systems. If you are looking to discuss your technology architecture of the
-      organization then also I could help you.
+      organization then also, I could help you.
     styles:
       self:
         height: auto

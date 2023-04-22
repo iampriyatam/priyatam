@@ -18,7 +18,7 @@ sections:
     subtitle: >-
       You can consider me someone who builds, designs, and tests the user
       interface elements of websites, software programs, and web-based
-      applications
+      applications.
     styles:
       self:
         height: auto

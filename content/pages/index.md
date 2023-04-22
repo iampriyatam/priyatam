@@ -15,7 +15,10 @@ sections:
     title: >-
       I’m a FRONT-END engineer, digital business manager, consultant and a
       travel enthusiast.
-    subtitle: From
+    subtitle: >-
+      You can consider me someone who builds, designs, and tests the user
+      interface elements of websites, software programs, and web-based
+      applications
     styles:
       self:
         height: auto

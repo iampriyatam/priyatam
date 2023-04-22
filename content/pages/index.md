@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a FRONT END engineer, digital business manager, consultant and a bunch
+      I’m a FRONT-END engineer, digital business manager, consultant and a bunch
       of other impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
